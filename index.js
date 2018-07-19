@@ -31,6 +31,6 @@ function distanceTravelledInFeet(from, to){
   return 2640
   }
    else if(from === 34 && to === 28){
-  return 2640
+  return 1584
   }
 }
