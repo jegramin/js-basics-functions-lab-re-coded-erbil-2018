@@ -22,3 +22,7 @@ function distanceFromHqInFeet(distance){
     return 2112
   }
 }
+
+function distanceTravelledInFeet(){
+  
+}
