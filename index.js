@@ -34,3 +34,21 @@ function distanceTravelledInFeet(from, to){
   return 1584
   }
 }
+
+function calculatesFarePrice(start, destination){
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
