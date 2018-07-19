@@ -11,6 +11,8 @@ function distanceFromHqInBlocks(distance){
   }
 }
 
-function distanceFromHqInFeet(){
-  
+function distanceFromHqInFeet(distance){
+  if(distance === 43){
+    
+  }
 }
