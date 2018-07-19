@@ -22,7 +22,7 @@ function distanceFromHqInFeet(distance){
     return 2112
   }
 }
-
+2640
 function distanceTravelledInFeet(from, to){
   if(from === 43 && to === 48){
   return 1320
