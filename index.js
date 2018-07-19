@@ -45,8 +45,8 @@ function calculatesFarePrice(start, destination){
   else if(start <= 50 && destination >= 58){
     return 25
   }
-  else if(start <= 34 && destination >= 32){
-    return 2.56
+  else if(start <= 24 && destination >= 34){
+    return 
   }
 }
 
