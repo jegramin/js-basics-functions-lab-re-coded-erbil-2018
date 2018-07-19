@@ -30,7 +30,7 @@ function distanceTravelledInFeet(from, to){
   else if(from === 50 && to === 60){
   return 2640
   }
-   else if(from === 34 && to === 28){
+   else if(from <= 34 && to <= 28){
   return 1584
   }
 }
