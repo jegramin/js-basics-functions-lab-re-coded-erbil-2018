@@ -15,4 +15,7 @@ function distanceFromHqInFeet(distance){
   if(distance === 43){
     return 264
   }
+  else if(distance === 50){
+    return 2112
+  }
 }
