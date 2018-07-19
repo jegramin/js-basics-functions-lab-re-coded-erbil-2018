@@ -23,6 +23,6 @@ function distanceFromHqInFeet(distance){
   }
 }
 
-function distanceTravelledInFeet(){
-  
+function distanceTravelledInFeet(from, to){
+  if(distance)
 }
